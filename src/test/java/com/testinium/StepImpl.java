@@ -1239,6 +1239,21 @@ public class StepImpl extends HookImpl {
 
     }
 
+    @Step("<second> saniye bekle")
+    public void waitBySecond(String second) {
+        try {
+            int seconds = Integer.parseInt(second);
+            Thread.sleep(seconds * 1000L);
+            logger.info(second + " saniye beklendi.");
+        } catch (InterruptedException e) {
+            Thread.currentThread().interrupt();
+            throw new RuntimeException("Bekleme sırasında hata oluştu", e);
+        } catch (NumberFormatException e) {
+            throw new IllegalArgumentException("Geçersiz saniye formatı: " + second, e);
+        }
+    }
+
+
 
     @Step({"Android klavye kapatılır"})
     public void closeKeyboard() {
