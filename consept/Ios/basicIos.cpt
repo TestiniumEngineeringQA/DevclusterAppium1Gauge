@@ -64,9 +64,8 @@
 
 
 # markalar tiklanir(IOS)
-* Elementin yüklenmesini bekle "markalarIOS"
+* "15" saniye bekle
 * Elementine tıkla "markalarIOS"
-* "1" saniye bekle
 
 # kampanyalar tiklanir(IOS)
 * Elementin yüklenmesini bekle "kampanyalarIOS"

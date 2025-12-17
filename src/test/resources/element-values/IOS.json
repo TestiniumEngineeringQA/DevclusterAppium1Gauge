@@ -24,7 +24,7 @@
     "key": "markalarIOS",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "//XCUIElementTypeButton[contains(@name, \"Markalar\")]",
+    "iosValue": "//XCUIElementTypeApplication[@name=\"Gratis\"]/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther",
     "iosType": "xpath"
   },
   {
