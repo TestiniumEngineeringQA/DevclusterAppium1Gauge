@@ -71,10 +71,10 @@
 * Elementin yüklenmesini bekle "kampanyalarIOS"
 * Elementine tıkla "kampanyalarIOS"
 * 1231
-public class ElementInfo {
-
-  @SerializedName("key")
-  @Expose
+* public class ElementInfo {
+*
+*  @SerializedName("key")
+*  @Expose
   private String key;
   @SerializedName("androidValue")
   @Expose
