@@ -72,7 +72,7 @@
 * Elementine tıkla "kampanyalarIOS"
 * 1231
 * public class ElementInfo {
-*
+@@
 *  @SerializedName("key")
 *  @Expose
   private String key;
