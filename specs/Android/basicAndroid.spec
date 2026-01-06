@@ -9,3 +9,8 @@ OpenAppAndroid
 ----------------
 tags:OpenAppAndroid
 * Uygulama baslatilir Android
+
+Skip Senaryosu
+----------
+tags:Skip Senaryosu
+* Bu senaryo skip edildi
