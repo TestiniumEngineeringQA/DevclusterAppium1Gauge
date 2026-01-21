@@ -7,8 +7,8 @@
     "iosType": ""
   },
   {
-    "key": "CargoText",
-    "androidValue": "//*[@text='81 ilde mağazadan ÜCRETSİZ TESLİMAT fırsatları']",
+    "key": "Cancel",
+    "androidValue": "//*[contains(@resource-id, 'android:id/button2') and contains(@text, 'İPTAL')]",
     "androidType": "xpath"
   }
 ]

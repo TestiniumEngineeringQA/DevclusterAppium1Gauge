@@ -1,4 +1,4 @@
 # Uygulama baslatilir Android
 //* "permissionDenyBtn" li element varsa tıkla yoksa devam et
 * "15" saniye bekle
-* Elementine tıkla "CargoText"
+* Elementine tıkla "Cancel"
