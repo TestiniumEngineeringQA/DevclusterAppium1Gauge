@@ -14,3 +14,9 @@ Skip Senaryosu
 ----------
 tags:Skip Senaryosu
 * Bu senaryo skip edildi
+
+WaitAppAndroid
+----------------
+tags:WaitAppAndroid
+* "1020" saniye bekle
+* Uygulama baslatilir Android

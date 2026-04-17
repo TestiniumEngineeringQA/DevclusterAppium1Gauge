@@ -29,3 +29,9 @@ Kisa Senaryo Gratis
 ----------
 tags:Kisa Senaryo Gratis
 * markalar tiklanir(IOS)
+
+Wait Senaryo Gratis
+----------
+tags:Wait Senaryo Gratis
+* "1020" saniye bekle
+* markalar tiklanir(IOS)
